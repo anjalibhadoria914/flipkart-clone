@@ -1,0 +1,19 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-button {
+    padding: 5px 15px;
+    font-size: 14px;
+    background-color: #fff;
+    color: #2874f0;
+    border: 1px solid #ccc;
+    border-left: none; 
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+    height: 35px; 
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
